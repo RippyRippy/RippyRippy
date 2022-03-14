@@ -1,4 +1,7 @@
-[
+{
+  "NFT":[
+
+
  {
    "Edition": "Variant 1",
    "Eyes": "Cat Eyes",
@@ -26664,3 +26667,4 @@
    "Number": "2222.png"
  }
 ]
+}
