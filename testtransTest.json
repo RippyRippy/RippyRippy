@@ -1,0 +1,78 @@
+{
+  "NFT": [
+  {
+    "transaction_status": {
+      "status": "CONFIRMED",
+      "confirmed_time": "2022-04-17T22:24:02.641Z",
+      "ledger_state_version": 113437304
+    },
+    "transaction_identifier": {
+      "hash": "9d9c59f8ec4d3604e78883e0c35e908e53c54bb28e93d407e6c9c582344a12bd"
+    },
+    "actions": [
+      {
+        "from_account": {
+          "address": "rdx1qspzpe8dk229mzwlj8d9q4gxn6g6gjs23xwdq08phd53pqsht269qaqgvje4d"
+        },
+        "to_account": {
+          "address": "rdx1qsphsyqge7zxc5trf2z5gqsuhmeduupmu7ln4s3j2km98798x6znfgqn25y7u"
+        },
+        "amount": {
+          "value": "200000000000000000000",
+          "token_identifier": {
+            "rri": "xrd_rr1qy5wfsfh"
+          }
+        },
+        "type": "TransferTokens"
+      }
+    ],
+    "fee_paid": {
+      "value": "92400000000000000",
+      "token_identifier": {
+        "rri": "xrd_rr1qy5wfsfh"
+      }
+    },
+    "metadata": {
+      "hex": "",
+      "message": "0000627579696e67203132383320666f7220323030207872642066726f6d207264783171737030797673746d6477726e7732386c6334706a6d333937616e6e6d6172383665683737746b677773617672396b37756a776168687330796d34386b"
+    }
+  },
+  {
+    "transaction_status": {
+      "status": "CONFIRMED",
+      "confirmed_time": "2022-04-17T22:21:04.367Z",
+      "ledger_state_version": 113436279
+    },
+    "transaction_identifier": {
+      "hash": "3b61f46105f967e322dc776382d3aa6ecb390ef5abd6b40f2d4e7b54e0bb7376"
+    },
+    "actions": [
+      {
+        "from_account": {
+          "address": "rdx1qsp0yvstmdwrnw28lc4pjm397annmar86eh77tkgwsavr9k7ujwahhs0ym48k"
+        },
+        "to_account": {
+          "address": "rdx1qsphsyqge7zxc5trf2z5gqsuhmeduupmu7ln4s3j2km98798x6znfgqn25y7u"
+        },
+        "amount": {
+          "value": "1000000000000000000",
+          "token_identifier": {
+            "rri": "rip_rr1qd3nrgnqk7q3rlwxnussq59wamwrgfd2j7xhgjgpdrkq5huu6w"
+          }
+        },
+        "type": "TransferTokens"
+      }
+    ],
+    "fee_paid": {
+      "value": "89800000000000000",
+      "token_identifier": {
+        "rri": "xrd_rr1qy5wfsfh"
+      }
+    },
+    "metadata": {
+      "hex": "",
+      "message": "000073656c6c696e67203132383320666f72203230302078726420746f2072647831717370687379716765377a786335747266327a3567717375686d65647575706d75376c6e3473336a326b6d393837393878367a6e6667716e3235793775"
+    }
+  }
+]
+}
